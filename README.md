@@ -140,5 +140,3 @@ Este projeto demonstrou a modelagem de um banco relacional com foco em:
 ## 🚀 Autora
 
 **Mara Costa**  
-[LinkedIn](https://www.linkedin.com/in/seuperfil)  
-[GitHub](https://github.com/seuperfil)
